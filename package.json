@@ -1,0 +1,14 @@
+{
+  "name": "polymarket-node-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@polymarket/clob-client": "^0.28.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.0",
+    "ethers": "^5.7.2"
+  }
+}
